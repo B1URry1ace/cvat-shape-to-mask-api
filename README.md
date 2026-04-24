@@ -51,10 +51,12 @@ python main.py
 
 ### 1. Initial Annotations
 <img width="2977" height="1747" alt="image" src="https://github.com/user-attachments/assets/f5081006-a222-415b-8c69-a2b968ba2465" />
+
 __Description: The task state before running the script, showing objects annotated with standard **Polygons**.__
 
 ### 2. Final Result
 <img width="3167" height="1857" alt="image" src="https://github.com/user-attachments/assets/09edaf13-5fd4-47d0-85dc-3c4d2c83cbd2" />
+
 __Description: The updated task in the CVAT interface. All polygons are now converted to **Mask** types, ready for bitmask export.__
 
 ## ⚠️ Disclaimer
