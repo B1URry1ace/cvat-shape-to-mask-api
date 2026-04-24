@@ -3,7 +3,6 @@ import numpy as np
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-# Новые библиотеки для скачивания и распаковки
 import zipfile
 import os
 import tempfile
