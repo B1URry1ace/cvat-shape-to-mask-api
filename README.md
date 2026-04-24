@@ -57,7 +57,7 @@ __Description: The task state before running the script, showing objects annotat
 ### 2. Final Result
 <img width="3167" height="1857" alt="image" src="https://github.com/user-attachments/assets/09edaf13-5fd4-47d0-85dc-3c4d2c83cbd2" />
 
-__Description: The updated task in the CVAT interface. All polygons are now converted to **Mask** types, ready for bitmask export.__
+*Description:* The script logs showing that existing masks were identified and skipped to prevent annotation overlapping.
 
 ## ⚠️ Disclaimer
 This script uses the `CVAT SDK`. Ensure your CVAT server version is compatible with the SDK version installed.
